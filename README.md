@@ -1,5 +1,7 @@
 # JOD-News 📱📰
 
+![JOD News](https://github.com/user-attachments/assets/6d7a5ad1-2b8a-438f-88a7-98faa829065c)
+
 **JOD-News** is a Flutter-powered news application that delivers the latest and most relevant news in a visually appealing and user-friendly interface. It utilizes powerful APIs and Flutter libraries to create an immersive news-reading experience. The application ensures seamless navigation, efficient news categorization, and a smooth user experience.
 
 This project leverages Flutter's state management and responsive UI capabilities to maintain clean separation of concerns between the UI, business logic, and data handling.
